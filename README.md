@@ -30,6 +30,35 @@ Bem-vindo ao **Conversor de Moedas** em Java!
 ## 🛠️ Tecnologias Utilizadas
 
 
+## 🛠️ Tecnologias Utilizadas
+
+| Componente          | Detalhes                                                                  |
+|---------------------|--------------------------------------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=20> **Java 17** | JDK com novos recursos como sealed classes |
+| <img src="https://img.shields.io/badge/HTTP_Client-Nativo-007396?style=flat-square" width=120> | Implementado via `java.net.http` |
+| <img src="https://img.shields.io/badge/Gson-2.10+-EA4335?style=flat-square&logo=google" width=100> | Desserialização de JSON |
+| <img src="https://img.shields.io/badge/ANSI-Terminal_Colors-000000?style=flat-square" width=120> | Formatação de texto colorido |
+
+
+## 🎯 Funcionalidades
+| Feature               | Descrição                                  |
+|-----------------------|--------------------------------------------|
+| 🌍 Multi-moedas       | Suporte a 160+ moedas via API              |
+| ⚡ Tempo real         | Taxas atualizadas hourly                  |
+| 🛡️ Validação         | Checagem de entradas inválidas            |
+| 📊 Logs               | Registro de operações em arquivo           |
+
+
+## ✅ Pré-requisitos
+
+| <img src="https://img.shields.io/badge/Requisito-Detalhes-blue?style=flat-square" width=120> | <img src="https://img.shields.io/badge/Especificação-Importante-green?style=flat-square" width=150> |
+|-------------------------------|---------------------------------------------------------------------|
+| ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=flat-square&logo=java) | JDK instalado (verifique com `java -version`) |
+| ![Internet](https://img.shields.io/badge/Internet-Conectado-green?style=flat-square) | Conexão estável para chamadas API |
+| ![API Key](https://img.shields.io/badge/API_Key-Gratuita-FFA500?style=flat-square) | Obtenha em [ExchangeRate-API](https://www.exchangerate-api.com/) |
+
+
+
 ## Descrição do projeto
 
 **O Challenge Amigo Secreto** foi um projeto desenvolvido na fase de seleção do programa Oracle Next Education junto com a Alura. É um aplicativo web que permite inserir nomes de amigos em uma lista e, por meio de sorteio aleatório, determinar quem será o “amigo secreto”. É uma ferramenta para organizar trocas de presentes de forma rápida e fácil.
